@@ -1,4 +1,5 @@
-description: A Hasura starter project with a ready to deploy AngularJS web app. 
-keywords:  getting-started, angular, javascript, js, angularjs, node, 
+description: A Hasura starter project with a ready to deploy AngularJS web app.
+keywords: getting-started, angular, javascript, js, angularjs, node,
+media: {}
 name: hello-angularjs
 platformVersion: v0.15.3

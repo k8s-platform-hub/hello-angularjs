@@ -56,7 +56,7 @@ Once the above commands are executed successfully, head over to `https://www.<cl
 The AngularJS microservice[1] sample code is inside the `microservices/www/app` directory. You can copy all your existing AngularJS code directly inside this directory, and start deploying it to Hasura cluster.
 
 ### Step 1: Add your AngularJS code in the microservices directory
-Copy all your exising PHP source code in `microservices/www/app` directory or replace the `microservices/www/app` directory with your app directory. Ensure that the structure of the directory is coherent with the current structure.
+Copy all your exising AngularJS source code in `microservices/www/app` directory or replace the `microservices/www/app` directory with your app directory. Ensure that the structure of the directory is coherent with the current structure.
 
 ### Step 2: Git add and commit
 ```
