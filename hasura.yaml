@@ -1,4 +1,4 @@
-description: Blank template for a Hasura project
-keywords: base, getting-started
-name: base
+description: A Hasura starter project with a ready to deploy AngularJS web app. 
+keywords:  getting-started, angular, javascript, js, angularjs, node, 
+name: hello-angularjs
 platformVersion: v0.15.3
